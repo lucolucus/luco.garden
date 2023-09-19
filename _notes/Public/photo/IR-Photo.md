@@ -1,5 +1,5 @@
 ---
-title: IR Photo
+title: IR-Photo
 feed: show
 date: 29-09-2023
 ---
